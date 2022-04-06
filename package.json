@@ -1,0 +1,15 @@
+{
+  "name": "code_postal_api",
+  "version": "1.0.0",
+  "description": "API CODE POSTAL MAROC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehdi Ouled-hali",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
